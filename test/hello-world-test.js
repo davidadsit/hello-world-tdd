@@ -15,3 +15,10 @@ buster.testCase("hello world", {
 
 });
 
+buster.testCase("printer tests", {
+  
+  "print sends the message to console.log": function () {
+
+  }
+
+});
